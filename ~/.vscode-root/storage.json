@@ -2,14 +2,15 @@
     "telemetry.machineId": "554c3535011238aead585a83958ca8ea9524014baf2cbeea920b9bf89ab9bc1d",
     "openedPathsList": {
         "workspaces3": [
+            "file:///usr/local/apps/js/starter-app-node-mongo",
             "file:///usr/local/apps/js/rest-api-nodejs-mongodb"
         ],
         "files2": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///usr/local/apps/js/rest-api-nodejs-mongodb",
-            "backupPath": "/usr/local/apps/js/rest-api-nodejs-mongodb/~/.vscode-root/Backups/e97ef7087bced552b125da4175c0fae6",
+            "folder": "file:///usr/local/apps/js/starter-app-node-mongo",
+            "backupPath": "/usr/local/apps/js/starter-app-node-mongo/~/.vscode-root/Backups/06783c4e5c4491c0340957736812998d",
             "uiState": {
                 "mode": 0,
                 "x": 171,
@@ -56,7 +57,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -65,8 +67,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/usr/local/apps/js/rest-api-nodejs-mongodb",
-                                        "external": "file:///usr/local/apps/js/rest-api-nodejs-mongodb",
+                                        "fsPath": "/usr/local/apps/js/starter-app-node-mongo",
+                                        "external": "file:///usr/local/apps/js/starter-app-node-mongo",
+                                        "path": "/usr/local/apps/js/starter-app-node-mongo",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/usr/local/apps/js/starter-app-node-mongo"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "path": "/usr/local/apps/js/rest-api-nodejs-mongodb",
                                         "scheme": "file"
                                     },
@@ -796,11 +808,13 @@
                     },
                     {
                         "id": "workbench.action.debug.stop",
-                        "label": "&&Stop Debugging"
+                        "label": "&&Stop Debugging",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.restart",
-                        "label": "&&Restart Debugging"
+                        "label": "&&Restart Debugging",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -818,19 +832,23 @@
                     },
                     {
                         "id": "workbench.action.debug.stepOver",
-                        "label": "Step &&Over"
+                        "label": "Step &&Over",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.stepInto",
-                        "label": "Step &&Into"
+                        "label": "Step &&Into",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.stepOut",
-                        "label": "Step O&&ut"
+                        "label": "Step O&&ut",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.continue",
-                        "label": "&&Continue"
+                        "label": "&&Continue",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
