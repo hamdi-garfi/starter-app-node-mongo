@@ -1,0 +1,14 @@
+[2020-05-28 20:30:57.544] [sharedprocess] [info] main {"machineId":"554c3535011238aead585a83958ca8ea9524014baf2cbeea920b9bf89ab9bc1d","windowId":2}
+[2020-05-28 20:31:00.128] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2020-05-28 20:31:00.129] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2020-05-28 20:31:00.590] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/8e074885-ddb4-4a1b-84cc-f76c020cc8d4
+[2020-05-28 20:31:00.591] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /tmp/745c5928-4d5c-4a0d-90ef-f8e64a4bf396
+[2020-05-28 20:31:00.677] [sharedprocess] [info] Extracted extension to /home/garfi/.vscode/extensions/.dracula-theme.theme-dracula-2.22.1: dracula-theme.theme-dracula
+[2020-05-28 20:31:00.678] [sharedprocess] [info] Renamed to /home/garfi/.vscode/extensions/dracula-theme.theme-dracula-2.22.1
+[2020-05-28 20:31:00.679] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2020-05-28 20:31:00.690] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula
+[2020-05-28 20:31:01.625] [sharedprocess] [info] Extracted extension to /home/garfi/.vscode/extensions/.ms-azuretools.vscode-docker-1.2.1: ms-azuretools.vscode-docker
+[2020-05-28 20:31:01.625] [sharedprocess] [info] Renamed to /home/garfi/.vscode/extensions/ms-azuretools.vscode-docker-1.2.1
+[2020-05-28 20:31:01.628] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2020-05-28 20:31:01.754] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2020-05-28 20:31:37.566] [sharedprocess] [info] Starting to clean up unused language packs.

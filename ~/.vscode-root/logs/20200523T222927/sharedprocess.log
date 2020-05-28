@@ -1,0 +1,3 @@
+[2020-05-23 22:29:30.881] [sharedprocess] [info] main {"machineId":"554c3535011238aead585a83958ca8ea9524014baf2cbeea920b9bf89ab9bc1d","windowId":2}
+[2020-05-23 22:29:30.975] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/usr/local/apps/js/rest-api-nodejs-mongodb/~/.vscode-root/User/snippets'
+[2020-05-23 22:30:10.927] [sharedprocess] [info] Starting to clean up unused language packs.

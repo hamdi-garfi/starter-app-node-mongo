@@ -1,0 +1,106 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /usr/local/apps/js/rest-api-nodejs-mongodb
+> git status -z -u
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :node_modules/express-validator/src/middlewares/validation-chain-builders.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/node_modules/express-validator/src/middlewares/validation-chain-builders.js
+> git check-ignore -v -z --stdin
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+fatal: your current branch 'master' does not have any commits yet
+> git show :models/UserModel.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/models/UserModel.js
+> git check-ignore -v -z --stdin
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git check-ignore -v -z --stdin
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git check-ignore -v -z --stdin
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :helpers/apiResponse.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/helpers/apiResponse.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :middlewares/jwt.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/middlewares/jwt.js
+> git show :controllers/BookController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/BookController.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :models/BookModel.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/models/BookModel.js
+> git show :models/UserModel.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/models/UserModel.js
+> git show :postman-collection/REST API NodeJS.postman_collection.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/postman-collection/REST API NodeJS.postman_collection.json
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :models/UserModel.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/models/UserModel.js
+> git show :.env
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/.env
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :routes/index.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/index.js
+> git show :routes/book.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/book.js
+> git show :CODE_OF_CONDUCT.md
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/CODE_OF_CONDUCT.md
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :README.md
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/README.md
+> git show :.eslintrc.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/.eslintrc.json
+> git show :.env
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/.env
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :.env
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/.env
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :.env
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/.env
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js

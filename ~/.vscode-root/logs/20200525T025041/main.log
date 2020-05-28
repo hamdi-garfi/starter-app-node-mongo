@@ -1,0 +1,42 @@
+[2020-05-25 02:50:41.732] [main] [info] update#setState idle
+[2020-05-25 02:51:11.746] [main] [info] update#setState checking for updates
+[2020-05-25 02:51:11.747] [main] [info] update#setState idle
+[2020-05-25 03:51:11.772] [main] [info] update#setState checking for updates
+[2020-05-25 03:51:11.773] [main] [info] update#setState idle
+[2020-05-25 05:55:14.427] [main] [info] update#setState checking for updates
+[2020-05-25 05:55:14.431] [main] [info] update#setState idle
+[2020-05-25 06:55:15.133] [main] [info] update#setState checking for updates
+[2020-05-25 06:55:15.135] [main] [info] update#setState idle
+[2020-05-25 07:55:15.152] [main] [info] update#setState checking for updates
+[2020-05-25 07:55:15.154] [main] [info] update#setState idle
+[2020-05-25 08:55:15.168] [main] [info] update#setState checking for updates
+[2020-05-25 08:55:15.171] [main] [info] update#setState idle
+[2020-05-25 21:53:53.564] [main] [info] update#setState checking for updates
+[2020-05-25 21:53:53.566] [main] [info] update#setState idle
+[2020-05-25 22:53:54.676] [main] [info] update#setState checking for updates
+[2020-05-25 22:53:54.678] [main] [info] update#setState idle
+[2020-05-25 23:53:54.680] [main] [info] update#setState checking for updates
+[2020-05-25 23:53:54.683] [main] [info] update#setState idle
+[2020-05-26 00:53:54.685] [main] [info] update#setState checking for updates
+[2020-05-26 00:53:54.687] [main] [info] update#setState idle
+[2020-05-26 01:53:54.685] [main] [info] update#setState checking for updates
+[2020-05-26 01:53:54.691] [main] [info] update#setState idle
+[2020-05-26 02:53:54.703] [main] [info] update#setState checking for updates
+[2020-05-26 02:53:54.707] [main] [info] update#setState idle
+[2020-05-26 03:53:54.757] [main] [info] update#setState checking for updates
+[2020-05-26 03:53:54.759] [main] [info] update#setState idle
+[2020-05-26 04:53:54.808] [main] [info] update#setState checking for updates
+[2020-05-26 04:53:54.811] [main] [info] update#setState idle
+[2020-05-26 14:50:58.652] [main] [info] update#setState checking for updates
+[2020-05-26 14:50:58.655] [main] [info] update#setState idle
+[2020-05-26 18:53:39.910] [main] [info] update#setState checking for updates
+[2020-05-26 18:53:39.914] [main] [info] update#setState idle
+[2020-05-26 19:53:39.957] [main] [info] update#setState checking for updates
+[2020-05-26 19:53:39.960] [main] [info] update#setState idle
+[2020-05-26 20:53:39.975] [main] [info] update#setState checking for updates
+[2020-05-26 20:53:39.977] [main] [info] update#setState idle
+[2020-05-26 21:53:40.014] [main] [info] update#setState checking for updates
+[2020-05-26 21:53:40.016] [main] [info] update#setState idle
+[2020-05-26 23:12:39.831] [main] [info] update#setState checking for updates
+[2020-05-26 23:12:39.833] [main] [info] update#setState idle
+[2020-05-26 23:41:24.887] [main] [error] [storage state.vscdb] backup(): Error: EPERM: operation not permitted, chmod '/usr/local/apps/js/rest-api-nodejs-mongodb/~/.vscode-root/User/globalStorage/state.vscdb.backup'

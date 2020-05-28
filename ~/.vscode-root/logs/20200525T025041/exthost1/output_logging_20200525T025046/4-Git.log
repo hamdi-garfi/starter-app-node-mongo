@@ -1,0 +1,45 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /usr/local/apps/js/rest-api-nodejs-mongodb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/book.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/book.js
+> git check-ignore -v -z --stdin
+> git show :middlewares/jwt.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/middlewares/jwt.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git check-ignore -v -z --stdin
+> git show :middlewares/jwt.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/middlewares/jwt.js
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :.env
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/.env
+> git show :helpers/mailer.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/helpers/mailer.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js

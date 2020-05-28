@@ -1,0 +1,51 @@
+[2020-05-28 20:30:57.500] [exthost] [info] extension host started
+[2020-05-28 20:30:57.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-05-28 20:30:57.695] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-05-28 20:30:57.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-28 20:30:57.760] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-28 20:30:57.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-28 20:30:57.768] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-05-28 20:30:57.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-28 20:30:57.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/git/dist/main
+[2020-05-28 20:30:57.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-28 20:30:57.872] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-28 20:30:57.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-28 20:30:57.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-28 20:30:57.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-28 20:30:57.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-05-28 20:30:57.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-28 20:30:57.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-28 20:30:57.921] [exthost] [info] ExtensionService#_doActivateExtension bajdzis.vscode-twig-pack {"startup":true,"extensionId":{"value":"bajdzis.vscode-twig-pack","_lower":"bajdzis.vscode-twig-pack"},"activationEvent":"*"}
+[2020-05-28 20:30:57.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/garfi/.vscode/extensions/bajdzis.vscode-twig-pack-1.1.0/extension
+[2020-05-28 20:30:57.928] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-05-28 20:30:57.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/garfi/.vscode/extensions/equinusocio.vsc-material-theme-32.6.0/build/material.theme.config
+[2020-05-28 20:30:57.946] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-05-28 20:30:57.946] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/garfi/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.1.4/out/src/extension
+[2020-05-28 20:30:57.961] [exthost] [info] ExtensionService#_doActivateExtension mblode.twig-language {"startup":true,"extensionId":{"value":"mblode.twig-language","_lower":"mblode.twig-language"},"activationEvent":"*"}
+[2020-05-28 20:30:57.961] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/garfi/.vscode/extensions/mblode.twig-language-0.9.1/extension/index
+[2020-05-28 20:30:57.981] [exthost] [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode {"startup":true,"extensionId":{"value":"monokai.theme-monokai-pro-vscode","_lower":"monokai.theme-monokai-pro-vscode"},"activationEvent":"*"}
+[2020-05-28 20:30:57.982] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/garfi/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.15/js/main
+[2020-05-28 20:30:58.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-05-28 20:30:58.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/npm/dist/main
+[2020-05-28 20:30:58.241] [exthost] [info] eager extensions activated
+[2020-05-28 20:32:10.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-05-28 20:32:10.528] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-05-28 21:37:03.177] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-05-28 21:38:17.894] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2020-05-28 21:38:17.894] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
+[2020-05-28 21:38:17.903] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugResolve:node"}
+[2020-05-28 21:38:17.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2020-05-28 21:38:17.917] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugResolve:node"}
+[2020-05-28 21:38:17.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/ms-vscode.node-debug/dist/extension.js
+[2020-05-29 00:33:32.982] [exthost] [info] ExtensionService#_doActivateExtension geeebe.duplicate {"startup":false,"extensionId":{"value":"geeebe.duplicate","_lower":"geeebe.duplicate"},"activationEvent":"onCommand:geeebe.duplicateText"}
+[2020-05-29 00:33:32.983] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/garfi/.vscode/extensions/geeebe.duplicate-1.0.1/out/extension
+[2020-05-29 00:38:04.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-29 00:38:04.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-05-29 00:38:04.964] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-05-29 00:38:04.965] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-05-29 00:38:05.007] [exthost] [info] ExtensionService#_doActivateExtension idleberg.wordpress-salts {"startup":false,"extensionId":{"value":"idleberg.wordpress-salts","_lower":"idleberg.wordpress-salts"},"activationEvent":"onLanguage:json"}
+[2020-05-29 00:38:05.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/garfi/.vscode/extensions/idleberg.wordpress-salts-1.0.0/lib/extension
+[2020-05-29 00:47:57.980] [exthost] [info] ExtensionService#_doActivateExtension foxundermoon.shell-format {"startup":false,"extensionId":{"value":"foxundermoon.shell-format","_lower":"foxundermoon.shell-format"},"activationEvent":"onLanguage:dotenv"}
+[2020-05-29 00:47:57.980] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/garfi/.vscode/extensions/foxundermoon.shell-format-7.0.1/dist/extension
+[2020-05-29 00:49:21.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2020-05-29 00:49:21.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/33/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension

@@ -1,0 +1,349 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /usr/local/apps/js/rest-api-nodejs-mongodb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :models/BookModel.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/models/BookModel.js
+> git cat-file -s 8e4dd1c195658a754a51378be93071f62a24e660
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :.env
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/.env
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/rest-api-nodejs-mongodb/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git cat-file -s cd7c5d1fcc1c94b74577e85fc3fdd1299b8ed755
+> git show :.env
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/.env
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git cat-file -s cd7c5d1fcc1c94b74577e85fc3fdd1299b8ed755
+> git show :models/BookModel.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/models/BookModel.js
+> git cat-file -s 8e4dd1c195658a754a51378be93071f62a24e660
+> git check-ignore -v -z --stdin
+> git show :postman-collection/REST API NodeJS.postman_collection.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/postman-collection/REST API NodeJS.postman_collection.json
+> git cat-file -s e83bf6cbdf4cf7871dd6c07e9c1d01dabc70a261
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git init
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /usr/local/apps/js/rest-api-nodejs-mongodb
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :postman-collection/REST API NodeJS.postman_collection.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/postman-collection/REST API NodeJS.postman_collection.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /usr/local/apps/js/rest-api-nodejs-mongodb/postman-collection/REST API NodeJS.postman_collection.json
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/postman-collection/REST API NodeJS.postman_collection.json
+> git show :postman-collection/REST API NodeJS.postman_collection.json
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/README.md
+> git show :controllers/BookController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/BookController.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/BookController.js
+fatal: your current branch 'master' does not have any commits yet
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :bin/www
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/bin/www
+> git show :package.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/package.json
+> git show :bin/www
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/bin/www
+> git show :package.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/package.json
+> git show :bin/www
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/bin/www
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :routes/book.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/book.js
+> git show :routes/index.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/index.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :controllers/BookController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/BookController.js
+> git show :routes/index.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/index.js
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/index.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/index.js
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :CODE_OF_CONDUCT.md
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/CODE_OF_CONDUCT.md
+> git show :LICENSE
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/LICENSE
+> git show :package-lock.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/package-lock.json
+> git show :package.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/package.json
+> git show :bin/www
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/bin/www
+> git show :postman-collection/REST API NodeJS.postman_collection.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/postman-collection/REST API NodeJS.postman_collection.json
+> git show :bin/www
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/bin/www
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :postman-collection/REST API NodeJS.postman_collection.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/postman-collection/REST API NodeJS.postman_collection.json
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :routes/index.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/index.js
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :controllers/AuthController.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/controllers/AuthController.js
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/book.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/book.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :routes/book.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/book.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
+> git show :postman-collection/REST API NodeJS.postman_collection.json
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/postman-collection/REST API NodeJS.postman_collection.json
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :app.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/app.js
+> git show :routes/api.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/api.js
+> git show :routes/index.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/index.js
+> git show :routes/book.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/book.js
+> git show :routes/index.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/index.js
+> git show :routes/auth.js
+> git ls-files --stage -- /usr/local/apps/js/rest-api-nodejs-mongodb/routes/auth.js
