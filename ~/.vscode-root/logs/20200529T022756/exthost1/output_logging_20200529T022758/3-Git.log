@@ -178,3 +178,32 @@ fatal: no upstream configured for branch 'develop'
 > git remote --verbose
 > git config --get commit.template
 > git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /usr/local/apps/js/starter-app-node-mongo/.gitignore
+> git symbolic-ref --short HEAD
+> git cat-file -s dd89f4044b2ec84eb377c133e3f279d69d1bfd6c
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+> git show :.gitignore
+fatal: no upstream configured for branch 'develop'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+fatal: no upstream configured for branch 'develop'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+fatal: no upstream configured for branch 'develop'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
