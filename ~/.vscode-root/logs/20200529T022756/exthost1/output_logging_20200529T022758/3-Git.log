@@ -1,0 +1,151 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /usr/local/apps/js/starter-app-node-mongo
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /usr/local/apps/js/starter-app-node-mongo/README.md
+> git cat-file -s 6c9ea5d8f87ed99a9eecb9939a015d07c6f13f76
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :package.json
+> git ls-files --stage -- /usr/local/apps/js/starter-app-node-mongo/package.json
+> git cat-file -s 8ef05d6f4a6ba67ba496d4266c57537e537c04e2
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/usr/local/apps/js/starter-app-node-mongo/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/snap/code/33/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/snap/code/33/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /usr/local/apps/js/starter-app-node-mongo/package.json
+> git cat-file -s 491af0cff0746169b998a9989d0b508e503eebf0
+> git show :package.json
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+fatal: no upstream configured for branch 'develop'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :.gitignore
+> git ls-files --stage -- /usr/local/apps/js/starter-app-node-mongo/.gitignore
+> git cat-file -s fe8963fb53055a6a381cdaaf6692286b61eb57c4
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+fatal: no upstream configured for branch 'develop'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git rev-parse --symbolic-full-name develop@{u}
+fatal: no upstream configured for branch 'develop'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /usr/local/apps/js/starter-app-node-mongo/.gitignore
+> git cat-file -s fe8963fb53055a6a381cdaaf6692286b61eb57c4
+> git symbolic-ref --short HEAD
+> git rev-parse develop
+> git show :.gitignore
+> git rev-parse --symbolic-full-name develop@{u}
+fatal: no upstream configured for branch 'develop'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
