@@ -1,6 +1,5 @@
 node_modules/
-.vscode/
-~/.vscode-root/Cache/index-dir/the-real-index
-~/.vscode-root/GPUCache/data_1
-~/.vscode-root/User/globalStorage/state.vscdb
-
+.*
+!/.gitignore
+!/.env
+~/.vscode-root/

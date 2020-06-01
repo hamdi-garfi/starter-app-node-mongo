@@ -1,0 +1,3 @@
+[2020-05-29 02:27:59.403] [sharedprocess] [info] main {"machineId":"554c3535011238aead585a83958ca8ea9524014baf2cbeea920b9bf89ab9bc1d","windowId":2}
+[2020-05-29 02:27:59.438] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/usr/local/apps/js/starter-app-node-mongo/~/.vscode-root/User/snippets'
+[2020-05-29 02:28:39.414] [sharedprocess] [info] Starting to clean up unused language packs.
