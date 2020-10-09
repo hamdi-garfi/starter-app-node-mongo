@@ -11,13 +11,7 @@ This is a basic API skeleton written in JavaScript ES2015. Very useful to buildi
 
 This project will run on **NodeJs** using **MongoDB** as database. I had tried to maintain the code structure easy as any beginner can also adopt the flow and start building an API. Project is open for suggestions, Bug reports and pull requests. 
 
-## Advertise for Job/Work Contract
-
-I am looking for a good job or work contract. You can contact me directly on my email ([garfi.hamdi@gmail.com](mailto:garfi.hamdi@gmail.com "garfi.hamdi@gmail.com"))  Looking forward. Thanks :smile:
- 
-
 ## Features
-
 -   Basic Authentication (Register/Login with hashed password)
 -   Account confirmation with 4 (Changeable) digit OTP.
 -   Email helper ready just import and use.
