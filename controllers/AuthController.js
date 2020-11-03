@@ -1,6 +1,7 @@
 const UserModel = require("../models/UserModel");
 const { body,check, validationResult } = require("express-validator");
  
+
 //helper file to prepare responses.
 const apiResponse = require("../helpers/apiResponse");
 const utility = require("../helpers/utility");
@@ -134,6 +135,7 @@ exports.login = [
 									return apiResponse.unauthorizedResponse(res, "Account is not confirmed. Please confirm your account.");
 								}
 							} else {
+								
 								return apiResponse.unauthorizedResponse(res, "Email or Password wrong.");
 							}
 						});
