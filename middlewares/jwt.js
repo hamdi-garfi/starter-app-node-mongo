@@ -5,4 +5,6 @@ const authenticate = jwt({
 	secret: secret
 });
 
+
+
 module.exports = authenticate;
