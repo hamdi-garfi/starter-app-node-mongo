@@ -23,7 +23,7 @@ describe("Book", () => {
 	// Prepare data for testing
 	const userTestData = {
 		"password":"Test@123",
-		"email":"maitraysuthar@test12345.com"
+		"email":"garfihamdi@test12345.com"
 	};
 
 	// Prepare data for testing
