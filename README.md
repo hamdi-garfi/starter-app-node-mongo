@@ -1,17 +1,17 @@
-# Nodejs Expressjs MongoDB Ready-to-use API Project Structure
+# Nodejs Expressjs API Project Structure
  [![GitHub license](https://img.shields.io/github/license/maitraysuthar/rest-api-nodejs-mongodb.svg)](https://github.com/maitraysuthar/rest-api-nodejs-mongodb/blob/master/LICENSE)  ![GitHub repo size](https://img.shields.io/github/repo-size/maitraysuthar/rest-api-nodejs-mongodb) [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/b3eb80984adc4671988ffb22d6ad83df)](https://www.codacy.com/manual/maitraysuthar/rest-api-nodejs-mongodb?utm_source=github.com&utm_medium=referral&utm_content=maitraysuthar/rest-api-nodejs-mongodb&utm_campaign=Badge_Coverage) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b3eb80984adc4671988ffb22d6ad83df)](https://www.codacy.com/manual/maitraysuthar/rest-api-nodejs-mongodb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=maitraysuthar/rest-api-nodejs-mongodb&amp;utm_campaign=Badge_Grade) ![Travis (.com)](https://img.shields.io/travis/com/maitraysuthar/rest-api-nodejs-mongodb)
 
-A ready-to-use boilerplate for REST API Development with Node.js, Express, and MongoDB
+Projet prêt à l'emploi pour le développement d'API REST avec Node.js, Express et MongoDB 
 
 
-## Getting started
+## Mise en route
 
 
-This is a basic API skeleton written in JavaScript ES2015. Very useful to building a RESTful web APIs for your front-end platforms like Android, iOS or JavaScript frameworks (Angular, Reactjs, etc).
+Il s'agit d'un squelette d'API de base écrit en JavaScript ES2015. Très utile pour créer des API Web RESTful pour vos plates-formes frontales telles que les frameworks Android, iOS ou JavaScript (Angular, Reactjs, etc.). 
 
-This project will run on **NodeJs** using **MongoDB** as database. I had tried to maintain the code structure easy as any beginner can also adopt the flow and start building an API. Project is open for suggestions, Bug reports and pull requests. 
+Ce projet s'exécutera sur ** NodeJs ** en utilisant ** MongoDB ** comme base de données. J'avais essayé de maintenir la structure du code facile car tout débutant peut également adopter le flux et commencer à créer une API. Le projet est ouvert pour les suggestions, les rapports de bogues et les demandes d'extraction. 
 
-## Features
+## Fonctionnalités
 -   Basic Authentication (Register/Login with hashed password)
 -   Account confirmation with 4 (Changeable) digit OTP.
 -   Email helper ready just import and use.
@@ -27,27 +27,27 @@ This project will run on **NodeJs** using **MongoDB** as database. I had tried t
 -   Included CI (Continuous Integration) with [Travis CI](https://travis-ci.org).
 -   Linting with [Eslint](https://eslint.org/).
 
-## Software Requirements
+## Logiciels requis
 
 -   Node.js **10+**
 -   MongoDB **3.6+** (Recommended **4+**)
 
-## How to install
+## Comment installer 
 
-### Using Git (recommended)
+### Utilisation du Git (recommended)
 
-1.  Clone the project from github. Change "myproject" to your project name.
+1.  Clonage du projet du github. Change "myproject" to your project name.
 
 ```bash
 git clone https://github.com/hamdi-garfi/starter-app-node-mongo.git ./myproject
 ```
 
-### Using manual download ZIP
+### Utilisation du téléchargement manuel ZIP 
 
-1.  Download repository
-2.  Uncompress to your desired directory
+1.  Télécharger le repository
+2.  Décomprésser le dossier
 
-### Install npm dependencies after installing (Git or manual download)
+### Installer les dépendances npm après l'installation (Git ou téléchargement manuel) 
 
 ```bash
 cd myproject
@@ -60,10 +60,10 @@ npm install
     ```bash
     cp .env.example .env
     ```
-2.  The file `.env` is already ignored, so you never commit your credentials.
-3.  Change the values of the file to your environment. Helpful comments added to `.env` file to understand the constants.
+2.  Le fichier `.env` est déjà ignoré, vous ne validez donc jamais vos informations d'identification.
+3. Modifiez les valeurs du fichier en fonction de votre environnement. Commentaires utiles ajoutés au fichier `.env` pour comprendre les constantes. 
 
-## Project  structure
+## Structure du projet
 ```sh
 .
 ├── app.js
@@ -96,15 +96,15 @@ npm install
     └── stylesheets
         └── style.css
 ```
-## How to run
+ 
 
-### Running  API server locally
+### Exécuter le serveur d'API localement 
 
 ```bash
 npm run dev
 ```
 
-You will know server is running by checking the output of the command `npm run dev`
+Vous saurez que le serveur est en cours d'exécution en vérifiant la sortie de la commande `npm run dev` 
 
 ```bash
 Connected to mongodb:YOUR_DB_CONNECTION_STRING
@@ -122,38 +122,4 @@ If you need to add more models to the project just create a new file in `/models
 
 If you need to add more routes to the project just create a new file in `/routes/` and add it in `/routes/api.js` it will be loaded dynamically.
 
-### Creating new controllers
 
-If you need to add more controllers to the project just create a new file in `/controllers/` and use them in the routes.
-
-## Tests
-
-### Running  Test Cases
-
-```bash
-npm test
-```
-
-You can set custom command for test at `package.json` file inside `scripts` property. You can also change timeout for each assertion with `--timeout` parameter of mocha command.
-
-### Creating new tests
-
-If you need to add more test cases to the project just create a new file in `/test/` and run the command.
-
-## ESLint
-
-### Running  Eslint
-
-```bash
-npm run lint
-```
-
-You can set custom rules for eslint in `.eslintrc.json` file, Added at project root.
-
-## Bugs or improvements
-
-Every project needs improvements, Feel free to report any bugs or improvements. Pull requests are always welcome.
-
-## License
-
-This project is open-sourced software licensed under the MIT License. See the LICENSE file for more information.
