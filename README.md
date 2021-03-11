@@ -12,15 +12,15 @@ Il s'agit d'un squelette d'API de base écrit en JavaScript ES2015. Très utile 
 Ce projet s'exécutera sur ** NodeJs ** en utilisant ** MongoDB ** comme base de données. J'avais essayé de maintenir la structure du code facile car tout débutant peut également adopter le flux et commencer à créer une API. Le projet est ouvert pour les suggestions, les rapports de bogues et les demandes d'extraction. 
 
 ## Fonctionnalités
--   Basic Authentication (Register/Login with hashed password)
+-   Authentication basique (Register/Login avec le hashed password)
 -   Account confirmation with 4 (Changeable) digit OTP.
--   Email helper ready just import and use.
--   JWT Tokens, make requests with a token after login with `Authorization` header with value `Bearer yourToken` where `yourToken` will be returned in Login response.
--   Pre-defined response structures with proper status codes.
+-   Email helper prêt à importer et à utiliser. 
+-   Jetons JWT, faites des demandes avec un jeton après la connexion avec l'en-tête `Authorization` avec la valeur` Bearer yourToken` où `yourToken` sera renvoyé dans la réponse de connexion. 
+-   Structures de réponse prédéfinies avec codes d'état appropriés. 
 -   Included CORS.
 -    **Book** example with **CRUD** operations.
--   Validations added.
--   Included API collection for Postman.
+-   Validations ajouté.
+-   Inclus des API collection for Postman.
 -   Light-weight project.
 -   Test cases with [Mocha](https://mochajs.org/) and [Chai](https://www.chaijs.com/).
 -   Code coverage with [Istanbuljs (nyc)](https://istanbul.js.org/).
@@ -56,7 +56,7 @@ npm install
 
 ### Setting up environments
 
-1.  Create a new file by copying and pasting the file and then renaming it to just `.env`
+1.  création du nouveau fichier pour copier et coller le fichier, puis le renommer simplement en `.env` 
     ```bash
     cp .env.example .env
     ```
@@ -112,14 +112,14 @@ App is running ...
 
 Press CTRL + C to stop the process.
 ```
-**Note:**  `YOUR_DB_CONNECTION_STRING` will be your MongoDB connection string.
+**Note:**  `YOUR_DB_CONNECTION_STRING` sera votre chaîne de connexion MongoDB .
 
-### Creating new models
+### Creation de nouveaux models
 
-If you need to add more models to the project just create a new file in `/models/` and use them in the controllers.
+Si vous avez besoin d'ajouter plus de modèles au projet, créez simplement un nouveau fichier dans `/ models /` et utilisez-les dans les contrôleurs. 
 
-### Creating new routes
+### Creation de nouveaux routes
 
-If you need to add more routes to the project just create a new file in `/routes/` and add it in `/routes/api.js` it will be loaded dynamically.
+Si vous avez besoin d'ajouter plus de routes au projet, créez simplement un nouveau fichier dans `/ routes /` et ajoutez-le dans `/ routes / api.js`, il sera chargé dynamiquement. 
 
 
